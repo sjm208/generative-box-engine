@@ -1,10 +1,13 @@
-Create custom 3D printable storage with the Generative Box Engine, a technical design tool focused on precision and deep customization.
+Generative Box Engine
+A high-precision, browser-based utility for designing and exporting custom 3D-printable enclosures.
 
-Key Features
-Generative Customization: Dynamically generate boxes by defining specific dimensions and wall thicknesses tailored to your exact needs.
+The Generative Box Engine is a technical design tool built for makers and engineers who need exact specifications for storage, component housing, or organizational systems. It moves beyond "one-size-fits-all" containers, offering a highly customizable workflow within a refined, modern interface.
 
-Custom Layouts & Shapes: Beyond simple cuboids, the engine supports custom geometric layouts and complex isometric wireframe shapes, allowing for unique structural designs.
+Core Functionality
+Fully Parametric Design: Real-time control over length, width, height, and wall thickness to ensure your box fits its intended purpose perfectly.
 
-Precision Engineering Visuals: Features custom SVG vector graphics and bold geometric styling to help you visualize precision joins and technical details before printing.
+Custom Internal Layouts: Generate internal dividers and structural shapes to create specialized compartments for electronics, tools, or collectibles.
 
-STL Export for 3D Printing: Once your design is finalized, seamlessly export your custom creation as an STL file, ready for slicing and 3D printing.
+Precision Geometric Engine: Utilizing a custom-styled Three.js environment, the tool provides instant visual feedback with high-contrast wireframe and solid-body previews.
+
+Production-Ready STL Export: Once the design is finalized, users can generate and download a clean STL file directly from the browser, ready to be dropped into any 3D printing slicer (Cura, PrusaSlicer, etc.).
